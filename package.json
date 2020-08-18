@@ -1,0 +1,12 @@
+{
+  "name": "paystack-wehook-test-endpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ebobzom/paystack-wehook-test-endpoint.git",
+  "author": "Elijah Bobzom <ebobzom@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
