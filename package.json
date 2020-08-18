@@ -5,6 +5,9 @@
   "repository": "https://github.com/ebobzom/paystack-wehook-test-endpoint.git",
   "author": "Elijah Bobzom <ebobzom@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"
